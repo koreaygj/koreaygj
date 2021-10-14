@@ -41,7 +41,9 @@ Here are some ideas to get you started:
 <br>
 
 <h3 alifn="center"> Visit </h3>
-![](https://komarev.com/ghpvc/?username=koreaygj&coloer-blueviolet)
+  <p align="center">
+  ![](https://komarev.com/ghpvc/?username=koreaygj&coloer-blueviolet)
+  </p>
 
 <br>
 
