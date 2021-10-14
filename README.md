@@ -40,9 +40,10 @@ Here are some ideas to get you started:
  [<img src="https://koreaygj.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350"/>](https://open.spotify.com/user/koreaygj)
 
 <br>
-
-![](https://komarev.com/ghpvc/?username=koreaygj&color=blueviolet&style=flat-square)
-  
+  <p align="center">
+  ![](https://komarev.com/ghpvc/?username=koreaygj&color=blueviolet&style=flat-square)
+  </p>
+    
 <br>
 
 [![KOREAYGJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreaygj&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
