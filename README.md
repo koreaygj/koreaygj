@@ -43,7 +43,6 @@ Here are some ideas to get you started:
 <h3 alifn="center"> Visit </h3>
 ![](https://komarev.com/ghpvc/?username=koreaygj&color=blueviolet)
 
-
 <br>
 
 [![KOREAYGJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreaygj&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -54,5 +53,5 @@ Here are some ideas to get you started:
 
 <br>
 
-[![KOREAYGJ's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Yang Gyeong Jin)](https://github.com/anuraghazra/github-readme-stats)
+[![KOREAYGJ's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koreaygj)](https://github.com/anuraghazra/github-readme-stats)
 
