@@ -33,3 +33,6 @@ Here are some ideas to get you started:
 
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koreaygj)](https://github.com/koreaygj/github-readme-stats)
+
+<img src="https://github.com/koreaygj/blob/master/images/stat.svg" alt="Alternative Text"/>
+
