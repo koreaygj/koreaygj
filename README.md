@@ -47,7 +47,6 @@ Here are some ideas to get you started:
 <br>
 
 ###Develop stats 📊
-
 <div align="center">
   
   [![KOREAYGJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreaygj&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
