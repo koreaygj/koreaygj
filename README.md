@@ -46,14 +46,7 @@ Here are some ideas to get you started:
   
 <br>
 
-### Visit 🚪
-<div align="center">
-  
-  ![](https://komarev.com/ghpvc/?username=koreaygj&color=blueviolet&style=flat-square)
-  
-</div>
-
-<br>
+###Develop stats 📊
 
 <div align="center">
   
@@ -74,5 +67,14 @@ Here are some ideas to get you started:
 <div align="center">
 
   [![KOREAYGJ's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koreaygj)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
+
+<br>
+
+### Visit 🚪
+<div align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=koreaygj&color=blueviolet&style=flat-square)
   
 </div>
