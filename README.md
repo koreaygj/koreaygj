@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <br>
 
 <h3 align="center">🛠 Tech 🛠</h3>
-
+<br>
   <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white" />
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <br>
 
 <h3 align="center">📆 Plan 📆</h3>
-
+<br>
   <p align="center">
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
   </p>
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <br>
 
 <h3 align="center">📊 Develop stats 📊</h3>
-
+<br>
 <div align="center">
   
   [![KOREAYGJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreaygj&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 <br>
 
 <h3 align="center">🚪 Visit 🚪</h3>
-
+<br>
 <div align="center">
   
   ![](https://komarev.com/ghpvc/?username=koreaygj&color=blueviolet&style=flat-square)
