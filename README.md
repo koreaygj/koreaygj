@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <br>
 
 <h3 alifn="center"> Visit </h3>
-![](https://komarev.com/ghpvc/?username=koreaygj&color=blueviolet)
+![](https://komarev.com/ghpvc/?koreaygj&color=blueviolet)
 
 <br>
 
@@ -53,5 +53,5 @@ Here are some ideas to get you started:
 
 <br>
 
-[![KOREAYGJ's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koreaygj)](https://github.com/anuraghazra/github-readme-stats)
+[![KOREAYGJ's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?koreaygj)](https://github.com/anuraghazra/github-readme-stats)
 
