@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-<h3 alifn="center"> Tech </h3>
+<h3 alifn="center"> ### Tech 🛠 </h3>
   <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white" />
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   </p>
 <br>
 
-<h3 alifn="center"> Plan </h3>
+<h3 alifn="center"> ### Plan 📆 </h3>
   <p align="center">
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
   </p>
