@@ -40,13 +40,9 @@ Here are some ideas to get you started:
 
 <br>
 
-#visit
+<h3 alifn="center"> Visit </h3>
 ![](https://komarev.com/ghpvc/?username=koreaygj&color=blueviolet)
 
-<br>
-
-[![Solved.ac
-koreaygj](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 <br>
 
@@ -59,3 +55,6 @@ koreaygj](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solv
 <br>
 
 [![KOREAYGJ's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koreaygj)](https://github.com/koreaygj/github-readme-stats)
+
+[![KOREAYGJ's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koreaygj)](https://github.com/anuraghazra/github-readme-stats)
+
