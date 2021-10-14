@@ -39,13 +39,13 @@ Here are some ideas to get you started:
  [<img src="https://koreaygj.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350"/>](https://open.spotify.com/user/koreaygj)
 
 <br>
-  ![](https://komarev.com/ghpvc/?username=koreaygj&color=blueviolet&style=flat-square)
+![](https://komarev.com/ghpvc/?username=koreaygj&color=blueviolet&style=flat-square)
   
 <br>
-  [![KOREAYGJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreaygj&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![KOREAYGJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreaygj&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   
 <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koreaygj&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koreaygj&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
-  [![KOREAYGJ's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koreaygj)](https://github.com/anuraghazra/github-readme-stats)
+[![KOREAYGJ's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koreaygj)](https://github.com/anuraghazra/github-readme-stats)
