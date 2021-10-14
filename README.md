@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?reversal=ture&animation=fadeIn&fontColor=F5FFFA&FontAlignY=100&type=waving&color=008d62&height=300&section=header&text=KOREAYGJ%20&fontSize=90)
-
+<h3 alifn="center">
+  
+  ![header](https://capsule-render.vercel.app/api?reversal=ture&animation=fadeIn&fontColor=F5FFFA&FontAlignY=100&type=waving&color=008d62&height=300&section=header&text=KOREAYGJ%20&fontSize=90)
+  
+</h3>
 <br>
 
 <h3 alifn="center"> Tech </h3>
@@ -44,7 +47,9 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
+  
   ![](https://komarev.com/ghpvc/?username=koreaygj&color=blueviolet&style=flat-square)
+  
 </div>
 
 <br>
