@@ -16,19 +16,23 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?reversal=ture&animation=fadeIn&fontColor=F5FFFA&FontAlignY=100&type=waving&color=008d62&height=300&section=header&text=KOREAYGJ%20&fontSize=90)
 
-</br>
+<br>
 
 <h3 alifn="center"> Tech </h3>
+  <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599c?style=flat-square&logo=C++&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557c94?style=flat-square&logo=Kali_Linux&logoColor=white "/>
-
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=Kali_Linux&logoColor=white "/>\
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white "/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white "/>
+  </p>
 <br>
 
 <h3 alifn="center"> Plan </h3>
+  <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AWS&logoColor=white"/>
-  
+  </p>
 <br>
 
 ### Spotify Playing 🎧
