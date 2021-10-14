@@ -42,18 +42,18 @@ Here are some ideas to get you started:
 
 <h3 alifn="center"> Visit </h3>
   <p align="center">
-  ![](https://komarev.com/ghpvc/?username=koreaygj&coloer-blueviolet)
+  ![](https://komarev.com/ghpvc/?username=koreaygj&color=blueviolet&style=flat-square)
   </p>
 
 <br>
-
-[![KOREAYGJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreaygj&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+  <p align="center">
+  [![KOREAYGJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreaygj&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  </p>
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koreaygj&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+  <p align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koreaygj&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  </p>
 <br>
-
-[![KOREAYGJ's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koreaygj)](https://github.com/anuraghazra/github-readme-stats)
-
+  <p align="center">
+  [![KOREAYGJ's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koreaygj)](https://github.com/anuraghazra/github-readme-stats)
+  </p>
