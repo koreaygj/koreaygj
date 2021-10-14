@@ -14,14 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div alifn="center">
+<div align="center">
   
   ![header](https://capsule-render.vercel.app/api?reversal=ture&animation=fadeIn&fontColor=F5FFFA&FontAlignY=100&type=waving&color=008d62&height=300&section=header&text=KOREAYGJ%20&fontSize=90)
   
 </div>
+
 <br>
 
-<h3 alifn="center">🛠 Tech 🛠</h3>
+<h3 align="center">🛠 Tech 🛠</h3>
 
   <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
@@ -33,7 +34,7 @@ Here are some ideas to get you started:
   </p>
 <br>
 
-<h3 alifn="center">📆 Plan 📆</h3>
+<h3 align="center">📆 Plan 📆</h3>
 
   <p align="center">
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
@@ -41,7 +42,7 @@ Here are some ideas to get you started:
  
 <br>
 
-<h3 alifn="center">🎧 Spotify Playing 🎧</h3>
+<h3 align="center">🎧 Spotify Playing 🎧</h3>
 
 \\<!--<div align="center">
   [<img src="https://koreaygj.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350"/>](https://open.spotify.com/user/koreaygj)
@@ -50,7 +51,7 @@ Here are some ideas to get you started:
   
 <br>
 
-<h3 alifn="center">📊 Develop stats 📊</h3>
+<h3 align="center">📊 Develop stats 📊</h3>
 
 <div align="center">
   
