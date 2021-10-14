@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  [![KOREAYGJ's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koreaygj)](https://github.com/anuraghazra/github-readme-stats)
+  [![KOREAYGJ's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime/?username=koreaygj)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
