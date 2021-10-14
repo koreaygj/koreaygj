@@ -40,13 +40,14 @@ Here are some ideas to get you started:
 <br>
 
 ### Spotify Playing 🎧
-<div align="center">
+\\<!--<div align="center">
   [<img src="https://koreaygj.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350"/>](https://open.spotify.com/user/koreaygj)
 </div>
+-->
   
 <br>
 
-###Develop stats 📊
+### Develop stats 📊
 <div align="center">
   
   [![KOREAYGJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreaygj&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
