@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 
 <img src="https://github.com/koreaygj/blob/master/images/stat.svg" alt="Alternative Text"/>
 
- <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+ START_SECTION:waka
+ END_SECTION:waka
