@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-<h3 alifn="center"> ### Tech 🛠 </h3>
+<h3 alifn="center"> 🛠🛠 Tech 🛠🛠 </h3>
+
   <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white" />
@@ -32,14 +33,16 @@ Here are some ideas to get you started:
   </p>
 <br>
 
-<h3 alifn="center"> ### Plan 📆 </h3>
+<h3 alifn="center"> 📆📆 Plan 📆📆 </h3>
+
   <p align="center">
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
   </p>
  
 <br>
 
-### Spotify Playing 🎧
+<h3 alifn="center"> 🎧🎧 Spotify Playing 🎧🎧 </h3>
+
 \\<!--<div align="center">
   [<img src="https://koreaygj.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350"/>](https://open.spotify.com/user/koreaygj)
 </div>
@@ -47,7 +50,8 @@ Here are some ideas to get you started:
   
 <br>
 
-### Develop stats 📊
+<h3 alifn="center"> 📊📊 Develop stats 📊📊 </h3>
+
 <div align="center">
   
   [![KOREAYGJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreaygj&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
@@ -72,7 +76,8 @@ Here are some ideas to get you started:
 
 <br>
 
-### Visit 🚪
+<h3 align="center"> 🚪🚪 Visit 🚪🚪 </h3>
+
 <div align="center">
   
   ![](https://komarev.com/ghpvc/?username=koreaygj&color=blueviolet&style=flat-square)
