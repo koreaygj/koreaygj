@@ -44,13 +44,13 @@ Here are some ideas to get you started:
  
 <br>
 
-<h3 align="center">🎧 Spotify Playing 🎧</h3>
+<!-- <h3 align="center">🎧 Spotify Playing 🎧</h3>
 
 <div align="center">
   [<img src="https://koreaygj.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350"/>](https://open.spotify.com/user/rk9xha76f5bq296eccr82fqwr)
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=rk9xha76f5bq296eccr82fqwr&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 </div>
-  
+  -->
 <br>
 
 <h3 align="center">📊 Develop stats 📊</h3>
