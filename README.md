@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">🎧 Spotify Playing 🎧</h3>
 <div align="center">
-  [<img src="https://koreaygj.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350"/>](https://open.spotify.com/user/rk9xha76f5bq296eccr82fqwr)
+  [<img src="https://koreaygj.vercel.app/api/spotify-now-playing" alt="Spotify Now Playing" width="350"/>](https://open.spotify.com/user/rk9xha76f5bq296eccr82fqwr)
 </div>
 <br>
 
