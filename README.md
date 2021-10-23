@@ -43,13 +43,13 @@ Here are some ideas to get you started:
   </p>
  
 <br>
-
+<!--
 <h3 align="center">🎧 Spotify Playing 🎧</h3>
 <div align="center">
   [<img src="https://koreaygj.vercel.app/api/spotify-now-playing" alt="Spotify Now Playing" width="350"/>](https://open.spotify.com/user/rk9xha76f5bq296eccr82fqwr)
 </div>
 <br>
-
+-->
 <h3 align="center">📊 Develop stats 📊</h3>
 <br>
 <div align="center">
