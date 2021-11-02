@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   </p>
 <br>
 
-<h3 align="center">📆 Plan 📆</h3>
+<h3 align="center">📝 In progress 📝</h3>
 <br>
   <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
