@@ -41,16 +41,12 @@
 <br>
 <div align="center">
   
-  [![KOREAYGJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreaygj&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
-<div align="center">
-  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koreaygj&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
   [![Solved.ac KOREAYGJ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=koreaygj)](https://solved.ac/koeraygj/)
-
-</div>
+  
+  <br>
+  
+  [![KOREAYGJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreaygj&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -70,6 +66,5 @@
   
   ![](https://komarev.com/ghpvc/?username=koreaygj&color=blueviolet&style=flat-square)
   [![wakatime](https://wakatime.com/badge/user/ca68aa9c-3de0-4dca-b96e-31d26e2a8f6c.svg)](https://wakatime.com/@ca68aa9c-3de0-4dca-b96e-31d26e2a8f6c)
-  <a href="https://koreaygj.github.io"><img src="https://img.shields.io/badge/?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white&link=내링크"/></a>&nbsp
   
 </div>
