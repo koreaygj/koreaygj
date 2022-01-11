@@ -1,19 +1,3 @@
-### Hi there 👋
-
-<!--
-**koreaygj/koreaygj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
   
   ![header](https://capsule-render.vercel.app/api?reversal=ture&animation=fadeIn&fontColor=F5FFFA&FontAlignY=100&type=waving&color=008d62&height=300&section=header&text=KOREAYGJ%20&fontSize=90)
@@ -26,7 +10,8 @@ Here are some ideas to get you started:
 <br>
   <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white "/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white "/>
@@ -85,5 +70,6 @@ Here are some ideas to get you started:
   
   ![](https://komarev.com/ghpvc/?username=koreaygj&color=blueviolet&style=flat-square)
   [![wakatime](https://wakatime.com/badge/user/ca68aa9c-3de0-4dca-b96e-31d26e2a8f6c.svg)](https://wakatime.com/@ca68aa9c-3de0-4dca-b96e-31d26e2a8f6c)
+  <a href="https://koreaygj.github.io"><img src="https://img.shields.io/badge/?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white&link=내링크"/></a>&nbsp
   
 </div>
