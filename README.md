@@ -42,15 +42,15 @@
 <div align="center">
   
   [![KOREAYGJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=koreaygj&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  [![Solved.ac KOREAYGJ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=koreaygj)](https://solved.ac/koeraygj/)
-
-</div>
 
 <br>
 
 <div align="center">
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koreaygj&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  [![Solved.ac KOREAYGJ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=koreaygj)](https://solved.ac/koeraygj/)
+
+</div>
 
 </div>
 
