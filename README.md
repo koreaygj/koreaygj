@@ -45,11 +45,11 @@
 <br>
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=koreaygj&row=1&theme=vue&no-frame=true#gh-light-mode-only)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=koreaygj&row=1&theme=vue-dark&no-frame=true#gh-light-mode-only)](https://github.com/ryo-ma/github-profile-trophy)
   
   <br>
   
-  ![koreaygj's github stats](https://github-readme-stats.vercel.app/api?username=koreaygj&show_icons=true&theme=vue&hide-border=true#gh-light-mode-only)[![koreaygj's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=koreaygj&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=vue&hide_border=true#gh-light-mode-only)](https://github.com/koreaygj)
+  ![koreaygj's github stats](https://github-readme-stats.vercel.app/api?username=koreaygj&show_icons=true&theme=vue-dark&hide-border=true#gh-light-mode-only)[![koreaygj's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=koreaygj&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=vue-dark&hide_border=true#gh-light-mode-only)](https://github.com/koreaygj)
 
 </div>
 
@@ -57,7 +57,7 @@
 
 <div align="center">
   
-  ![koreaygj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koreaygj&theme=vue&hide_border=true#gh-light-mode-only)
+  ![koreaygj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koreaygj&theme=vue-dark&hide_border=true#gh-light-mode-only)
 
 <br>
 
