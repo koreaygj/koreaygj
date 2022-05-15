@@ -57,7 +57,7 @@
 
 <div align="center">
   
-  ![koreaygj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koreaygj&theme=vue&hide_border=true)
+  ![koreaygj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koreaygj&theme=vue&hide_border=true#gh-light-mode-only)
 
 <br>
 
