@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white" />
   <br>
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white" />
   <img src="https://img.shields.io/badge/C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white "/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
   <br>
@@ -43,8 +44,7 @@
 <h3 align="center">📊 Develop stats 📊</h3>
 <br>
 <div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koreaygj&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=koreaygj)](https://github.com/ryo-ma/github-profile-trophy)
   [![Solved.ac KOREAYGJ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=koreaygj)](https://solved.ac/koeraygj/)
   
   <br>
@@ -56,9 +56,8 @@
 <br>
 
 <div align="center">
-<!--
+  
   [![KOREAYGJ's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime/?username=koreaygj)](https://github.com/anuraghazra/github-readme-stats)
-  -->
 </div>
 
 <br>
