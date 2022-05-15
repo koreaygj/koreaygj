@@ -57,8 +57,7 @@
 
 <div align="center">
   
-  [![KOREAYGJ's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime/?username=koreaygj)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+  ![koreaygj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koreaygj&theme=dark)
 
 <br>
 
