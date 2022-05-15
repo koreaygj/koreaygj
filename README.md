@@ -49,7 +49,7 @@
   
   <br>
   
-  ![koreaygj's github stats](https://github-readme-stats.vercel.app/api?username=koreaygj&show_icons=true&theme=vue&no-border=true)[![koreaygj's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=koreaygj&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=vue&hide_border=true)](https://github.com/koreaygj)
+  ![koreaygj's github stats](https://github-readme-stats.vercel.app/api?username=koreaygj&show_icons=true&theme=vue&hide-border=true)[![koreaygj's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=koreaygj&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=vue&hide_border=true)](https://github.com/koreaygj)
 
 </div>
 
