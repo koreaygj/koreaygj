@@ -45,7 +45,7 @@
 <br>
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=koreaygj&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=koreaygj&row=1)](https://github.com/ryo-ma/github-profile-trophy&theme=monokai)
   
   <br>
   
@@ -57,7 +57,7 @@
 
 <div align="center">
   
-  ![koreaygj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koreaygj&theme=dark)
+  ![koreaygj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koreaygj)
 
 <br>
 
