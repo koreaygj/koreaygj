@@ -45,11 +45,11 @@
 <br>
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=koreaygj&row=1&theme=monokai&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=koreaygj&row=1&theme=radical&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
   
   <br>
   
-  ![koreaygj's github stats](https://github-readme-stats.vercel.app/api?username=koreaygj&show_icons=true&theme=dark&no-frame=true)[![koreaygj's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=koreaygj&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=dark&nframe=false)](https://github.com/koreaygj)
+  ![koreaygj's github stats](https://github-readme-stats.vercel.app/api?username=koreaygj&show_icons=true&theme=radical&no-frame=true)[![koreaygj's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=koreaygj&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=radical&hide_border=true)](https://github.com/koreaygj)
 
 </div>
 
@@ -57,7 +57,7 @@
 
 <div align="center">
   
-  ![koreaygj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koreaygj&theme=dark&frame=false)
+  ![koreaygj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koreaygj&theme=radical&hide_border=true)
 
 <br>
 
