@@ -49,7 +49,7 @@
   
   <br>
   
-  ![koreaygj's github stats](https://github-readme-stats.vercel.app/api?username=koreaygj&show_icons=true&theme=gruvbox&no-frame=true)[![koreaygj's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=koreaygj&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=gruvbox&hide_border=true)](https://github.com/koreaygj)
+  ![koreaygj's github stats](https://github-readme-stats.vercel.app/api?username=koreaygj&show_icons=true&theme=tokyonight&no-frame=true)[![koreaygj's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=koreaygj&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/koreaygj)
 
 </div>
 
@@ -57,7 +57,7 @@
 
 <div align="center">
   
-  ![koreaygj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koreaygj&theme=gruvbox&hide_border=true)
+  ![koreaygj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koreaygj&theme=tokyonight&hide_border=true)
 
 <br>
 
