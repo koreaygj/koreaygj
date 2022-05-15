@@ -44,8 +44,8 @@
 <h3 align="center">📊 Develop stats 📊</h3>
 <br>
 <div align="center">
+  
   [![trophy](https://github-profile-trophy.vercel.app/?username=koreaygj)](https://github.com/ryo-ma/github-profile-trophy)
-  [![Solved.ac KOREAYGJ Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=koreaygj)](https://solved.ac/koeraygj/)
   
   <br>
   
