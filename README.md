@@ -45,7 +45,7 @@
 <br>
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=koreaygj&row=1)](https://github.com/ryo-ma/github-profile-trophy&theme=monokai)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=koreaygj&row=1&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
   
   <br>
   
