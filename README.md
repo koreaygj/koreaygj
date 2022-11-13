@@ -1,9 +1,3 @@
-<div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?reversal=ture&animation=fadeIn&fontColor=F5FFFA&FontAlignY=100&type=waving&color=008d62&height=300&section=header&text=KOREAYGJ%20&fontSize=90)
-  
-</div>
-
 <br>
 
 <h3 align="center">🛠 Tech 🛠</h3>
@@ -33,24 +27,11 @@
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
   </p>
  
-<br>
-<!--
-<h3 align="center">🎧 Spotify Playing 🎧</h3>
-<div align="center">
-  [<img src="https://koreaygj.vercel.app/api/spotify-now-playing" alt="Spotify Now Playing" width="350"/>](https://open.spotify.com/user/rk9xha76f5bq296eccr82fqwr)
-</div>
-<br>
--->
 <h3 align="center">📊 Develop stats 📊</h3>
 <br>
 <div align="center">
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=koreaygj&row=1&theme=nord&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-  ![koreaygj's github stats](https://github-readme-stats.vercel.app/api?username=koreaygj&show_icons=true&theme=react&hide-border=true)
-  ![koreaygj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=koreaygj&theme=react&hide_border=true)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koreaygj&show_icons=true&hide_border=true&title_color=61dafb&icon_color=004386&layout=compact&theme=react&hide_border=true)](https://github.com/koreaygj)
 
 <br>
 
