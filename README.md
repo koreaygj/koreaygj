@@ -10,7 +10,9 @@
 
 ### 💻 DEV's log 💻
 <p>
+  <a href="https://koreaygj.github.io">
   <img src="https://img.shields.io/badge/koreaygj_blog-222222?style=flat-square&logo=GitHub Pages&logoColor=white"/>
+  </a>
 </p>
 
 ### 🛠 Skills
