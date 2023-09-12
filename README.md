@@ -4,7 +4,7 @@
 
 ### 📞 Contact 📞
 <p> 
-  <a href="mailto:iscowkite@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ygj1828@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="ygj1828@gmail.com" target="_blank"><img src="https://img.shields.io/badge/ygj1828@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   
 </p>
 
