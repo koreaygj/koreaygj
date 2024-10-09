@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=👋Hi%20there!%20I'm%20koreaygj&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=200&section=header&text=👋Hi%20there!%20I'm%20koreaygj&fontSize=40&stroke=000000&strokeWidth=1)
 
 
 Welcome to my GitHub profile! I’m a passionate developer with a love for coding and learning new technologies. 🚀
