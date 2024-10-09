@@ -7,32 +7,47 @@ Welcome to my GitHub profile! I’m a passionate developer with a love for codin
 
 ---
 
-<a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=koreaygj&show_icons=true&count_private=true&line_height=26&theme=dark" />
-</a>
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
 
-- :book: &nbsp;Learn more about my projects on my **[blog]**
-- :computer: &nbsp;Connect with me on **[email]**
+  <div style="flex: 1; min-width: 250px;">  
+<ul>
+      <li>📖 Learn more about my projects on my <a href="https://koreaygj.github.io" title="koreaygj dev blog">blog</a></li>
+      <li>💻 Connect with me on <a href="mailto:ygj1828@gmail.com" title="koreaygj email">email</a></li>
+    </ul>
+  </div>
 
-<br clear="right">
+  <div style="flex: 1; min-width: 250px;">
+    <a href="#">
+      <img align="right" src="https://github-readme-stats.vercel.app/api?username=koreaygj&show_icons=true&count_private=true&line_height=24&theme=dark&card_width=350&card_height=220" />
+    </a>
+  </div>
+
+</div>
+
+<br clear="both">
 
 ## 🧩 Tech I'm Excited About
 
-<a href="https://git.io/streak-stats">
-  <img align="right" src="https://streak-stats.demolab.com?user=koreaygj&theme=dark&card_width=350&card_height=220" alt="GitHub Streak" />
-</a>
+<div style="display: flex; flex-wrap: wrap; align-items: center;">
 
-**Tools & Platforms**
+  <div style="flex: 1; min-width: 250px;">
+    <a href="https://git.io/streak-stats">
+      <img align="right" src="https://streak-stats.demolab.com?user=koreaygj&theme=dark&card_width=350&card_height=220" alt="GitHub Streak" />
+    </a>
+  </div>
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=github,git,docker,vim,aws,npm,idea" />
-</a>
+  <div style="flex: 1; min-width: 250px;">  
+<h3>Tools & Platforms</h3>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=github,git,docker,vim,aws,npm,idea" />
+    </a>
+<h3>Programming Languages & Frameworks</h3>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=actix,rust,cpp,react,ts,java,spring" />
+    </a>
+  </div>
 
-**Programming Languages & Frameworks**
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=actix,rust,cpp,react,ts,java,spring" />
-</a>
+</div>
 
 [email]: mailto:ygj1828@gmail.com "koreaygj email"
 [blog]: https://koreaygj.github.io "koreaygj dev blog"
