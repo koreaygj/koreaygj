@@ -39,11 +39,7 @@ Welcome to my GitHub profile! I’m a passionate developer with a love for codin
   <div style="flex: 1; min-width: 250px;">  
     <h3>Tools & Rrogramming Lang</h3>  
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=github,git,vim" />
-    </a>
-    <h3>Programming Languages</h3>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cpp" />
+      <img src="https://skillicons.dev/icons?i=cpp,github,git,vim" />
     </a>
   </div>
 </div>
