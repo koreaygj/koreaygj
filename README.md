@@ -17,13 +17,6 @@ Welcome to my GitHub profile! I’m a passionate developer with a love for codin
     </ul>
   </div>
 
-  <div style="flex: 1; min-width: 250px; text-align: right;">
-    <a href="#">
-      <img src="https://github-readme-stats.vercel.app/api?username=koreaygj&show_icons=true&count_private=true&line_height=24&theme=dark" 
-           style="max-width: 100%; width: 350px; min-width: 250px;" alt="GitHub Stats" />
-    </a>
-  </div>
-
 </div>
 
 
